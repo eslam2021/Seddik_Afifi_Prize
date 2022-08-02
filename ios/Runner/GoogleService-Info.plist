@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>902864893803-tgd3l930t9u5j5odl7f0u2fitcup3grf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.902864893803-tgd3l930t9u5j5odl7f0u2fitcup3grf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>902864893803-cgrjob717pbueveudfr351nd85lnqqcq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAeVrEWK90yLsNjOVkrkMTeywowQNIKem4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>902864893803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firistProject</string>
+	<key>PROJECT_ID</key>
+	<string>seiddikafifiprize</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seiddikafifiprize.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:902864893803:ios:1df69b336a097158683e2e</string>
+</dict>
+</plist>

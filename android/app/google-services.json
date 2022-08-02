@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "902864893803",
+    "project_id": "seiddikafifiprize",
+    "storage_bucket": "seiddikafifiprize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902864893803:android:d0adc8815670e216683e2e",
+        "android_client_info": {
+          "package_name": "com.example.firist_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902864893803-cgrjob717pbueveudfr351nd85lnqqcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firist_project",
+            "certificate_hash": "4cbd28f4e03cf5767b1e379ffe69436008de940c"
+          }
+        },
+        {
+          "client_id": "902864893803-9avs1brp2270g7mo7mnda6vc30caueqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxzgwSC5IP0m0G6jba019ugHYZ3lrzUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902864893803-9avs1brp2270g7mo7mnda6vc30caueqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "902864893803-tgd3l930t9u5j5odl7f0u2fitcup3grf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firistProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
